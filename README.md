@@ -33,5 +33,3 @@ THEN I am presented with a responsive layout that adapts to my viewport
 https://github.com/JamesvanHoke/Portfolio
 
 https://jamesvanhoke.github.io/Portfolio/
-
-Portfolio Print Screen.pdf
