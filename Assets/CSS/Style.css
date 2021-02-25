@@ -41,7 +41,7 @@ header div h1 {
 }
 
 .header ul li {
-    display: inline;
+    display: inline-block;
     margin-left: 15px;
     font-size: 24px;
 }
@@ -68,7 +68,8 @@ header div h1 {
 }
 
  @media screen and (max-width: 600px) {
-.header {
+.header,
+nav {
     flex-direction: column;
 }
  }
